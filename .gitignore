@@ -143,3 +143,6 @@ dist
 
 # VS Code Extension
 .history
+
+# Environment Settings
+.env
